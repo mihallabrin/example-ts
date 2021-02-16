@@ -1,0 +1,20 @@
+{
+  "name": "example-ts",
+  "version": "1.0.0",
+  "description": "[Configuring TypeScript compiler](https://indepth.dev/posts/1164/configuring-typescript-compiler)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihallabrin/example-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihallabrin/example-ts/issues"
+  },
+  "homepage": "https://github.com/mihallabrin/example-ts#readme"
+}
