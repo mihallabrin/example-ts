@@ -2,6 +2,6 @@ document.onreadystatechange = () => {
   if (document.readyState === 'complete') {
     const el: HTMLDivElement | null = document.querySelector('.example');
 
-    el ? el.innerText = 'not example' : null;
+    el ? ((el.innerText = 'not example'), el.classList.add('test')) : null;
   }
 };
